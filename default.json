@@ -1,0 +1,4 @@
+{
+    "mongo_url": "mongodb+srv://rango:karthik@2405@cluster0.iskmx.mongodb.net/todolistDB?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:3000"
+}
