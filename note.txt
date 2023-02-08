@@ -1,0 +1,10 @@
+db.getCollection('items').find(
+    {
+        "name":{
+            "count":{
+                $lt:1   
+            }
+            
+        }
+    }
+)
